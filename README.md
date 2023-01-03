@@ -9,5 +9,5 @@
   * pydantic - schemas
  
 ## Objetivo e funcionalidade:
-* Gerar pedidos de orçamentos para diversos fornecedores simultaneamente
-* Receber e tratar os orçamentos respondidos apresentando os que possuem melhor preço
+* Gerar pedidos de orçamentos
+* Receber os orçamentos respondidos
